@@ -1,0 +1,1 @@
+get-wmiobject win_32product | ft ident*, name
